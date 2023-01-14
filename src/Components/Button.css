@@ -1,0 +1,35 @@
+button {
+    background-color: darkolivegreen;
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-weight: 200;
+    outline: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    color : black;
+    background-color: rgb(115, 145, 64);
+}
+
+.eql {
+    background-color: rgb(74, 74, 146);
+    grid-row : 4 / 6;
+    grid-column: 4 / 5;
+}
+
+.eql:hover {
+    color : black;
+    background-color: rgb(97, 97, 189); 
+}
+
+.ac {
+    background-color: darkred;
+}
+
+.ac:hover {
+    color : black;
+    background-color: rgb(172, 28, 28); 
+}

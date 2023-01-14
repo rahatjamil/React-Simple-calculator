@@ -1,0 +1,12 @@
+.wrapper {
+    width : 300px;
+    height : 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    border-radius: 5px;
+    border: 2px solid whitesmoke;
+    padding : 0px;
+}
